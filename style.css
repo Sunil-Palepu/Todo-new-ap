@@ -1,0 +1,19 @@
+.btn-delete {
+    margin: 7px 20px;
+    color: white;
+    background-color: rgb(241, 10, 10);
+    border-style: hidden;
+    border-radius: 5px;
+    padding: 4px 10px;
+    cursor: pointer;
+    box-shadow: 2px 3px 7px rgb(51, 41, 41);
+}
+.btn-delete:hover {
+    background-color: rgb(191, 2, 2);
+}
+
+
+#todo-title {
+    font-family: 'Times New Roman', Times, serif;
+    width: 220px;
+}
